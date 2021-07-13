@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(204, 106, 106);
+    font-size:xx-large
+}
+
+h1{
+    margin: 60px;
+    padding: 50px 0px;
+    background-color: rgb(196, 150, 150);
+    text-align: center;
+}
+
+h3{
+    margin-top: 10%;
+    margin-left: 15%;
+    font-family: 'Qahiri', sans-serif;
+}
+
+button{
+    margin-right: 20px;  
+    font-size:x-large ;
+    font-weight: bold;   
+    background-color: rgb(134, 115, 115);  
+}
+
+.Button{
+    margin-left: 15%;
+}
